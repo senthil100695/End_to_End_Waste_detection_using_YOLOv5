@@ -1,6 +1,6 @@
 # End_to_End_Waste_detection_using_YOLOv5
 
-## Workdlows
+## Workflows
 
 1. Constants
 2. entity
