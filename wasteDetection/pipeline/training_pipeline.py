@@ -8,7 +8,7 @@ from wasteDetection.entity.artifacts_entity import (DataIngestionArtifact)
 
 class TrainPipeline:
     def __init__(self):
-        self.data_ingestion_config = DataIngestion()
+        self.data_ingestion_config = DataIngestionConfig()
     
     def start_data_ingestion(self)-> DataIngestionArtifact:
         try: 
